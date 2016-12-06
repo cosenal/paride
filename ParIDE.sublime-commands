@@ -1,0 +1,4 @@
+[
+    { "caption": "ParIDE: New game", "command": "new_game"},
+    { "caption": "ParIDE: Start game", "command": "start_game"}
+]

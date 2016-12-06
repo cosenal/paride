@@ -1,0 +1,10 @@
+[
+    {   
+        "keys": ["ctrl+super+w"],
+        "command": "new_game"
+    },
+    {   
+        "keys": ["ctrl+super+s"],
+        "command": "start_game"
+    },
+]
