@@ -1,12 +1,12 @@
+![logo](http://images.bendingspoons.com/profile-pictures/15.png)
 
 # ParIDE™ ![](https://img.shields.io/badge/coverage-manc' pu cazz-green.svg)
 
-![](http://images.bendingspoons.com/profile-pictures/15.png)
-
 ### World's first IDE for Werewolf moderators
 
+![screencast](http://g.recordit.co/N6s1glJ5W5.gif)
 
-## How-to use
+## Setup
 As a matter of fact, you should never use this software. Instead, you should use a sheet of paper and a deck of Neapolitan cards. But since you insists...
 
 1. Install SublimeText
