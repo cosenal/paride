@@ -1,7 +1,9 @@
+
 # ParIDE™ ![](https://img.shields.io/badge/coverage-manc' pu cazz-green.svg)
 
-### World's first IDE for Werewolf moderators
+![](http://images.bendingspoons.com/profile-pictures/15.png)
 
+### World's first IDE for Werewolf moderators
 
 
 ## How-to use
